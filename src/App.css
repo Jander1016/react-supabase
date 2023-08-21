@@ -1,0 +1,28 @@
+/* form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.container {
+  width: 100%;
+}
+article{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  padding-right: 5rem;
+  
+} */
